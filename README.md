@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=keitanamazue&show_icons=true&rank_icon=github)
+![Rank](https://img.shields.io/badge/GitHub%20Rank-B-blue)
 <!--
 **meikocho1/meikocho1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
