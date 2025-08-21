@@ -19,14 +19,3 @@
   <img src="https://img.shields.io/badge/Stripe-635BFF?logo=stripe&logoColor=white" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white" />
 </p>
-
-<!-- WakaTime summary image（後述Actionsで生成） -->
-### ⏱ Weekly Development Summary
-<p>
-  <img src="https://raw.githubusercontent.com/keitanamazue/keitanamazue/main/images/stat.svg" />
-</p>
-
-<!-- WakaTime detail section（Actionsがここを置換） -->
-### 📊 WakaTime Activity (Details)
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
