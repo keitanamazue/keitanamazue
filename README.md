@@ -3,14 +3,7 @@
 <!-- Top cards -->
 <p align="left">
   <!-- GitHub Readme Stats (総合) -->
-  <img height="165" src="https://github-readme-stats.vercel.app/api
-  ?username=keitanamazue
-  &show_icons=true
-  &rank_icon=github
-  &include_all_commits=true
-  &count_private=true
-  &show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage
-  &hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=keitanamazue&show_icons=true&rank_icon=github" />
   <!-- Languages -->
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keitanamazue&layout=compact&langs_count=8" />
 </p>
