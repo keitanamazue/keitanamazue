@@ -1,13 +1,5 @@
 ### Hi there 👋
 
-<!-- Top cards -->
-<p align="left">
-  <!-- GitHub Readme Stats (総合) -->
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=keitanamazue&show_icons=true&rank_icon=github" />
-  <!-- Languages -->
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keitanamazue&layout=compact&langs_count=8" />
-</p>
-
 <!-- Skills -->
 ### ⚙️ Tech Stack
 <p>
